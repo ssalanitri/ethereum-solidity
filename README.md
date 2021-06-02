@@ -18,3 +18,9 @@
 
 - event Approval(address indexed tokenOwner, address indexed spender, uint tokens);
 - event Transfer(address indexed from, address indexed to, uint tokens);
+
+## ERC20 variables interface
+
+- string public constant name;
+- string public constant symbol;
+- uint8 public constant decimals;
