@@ -28,3 +28,4 @@ A public function can be accessed outside of the contract itself
 view basically means constant, i.e. the contract’s internal state will not be changed by the function
 An event is Solidity’s way of allowing clients e.g. your application frontend to be notified on specific occurrences within the contract
 
+![image](https://user-images.githubusercontent.com/253442/120489094-bafed500-c38d-11eb-8494-a4e4466e8dc8.png)
