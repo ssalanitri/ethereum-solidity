@@ -1,10 +1,13 @@
 # ethereum-solidity
 
-- Examples solidity contracts and tokens.
-  - Compile and deploy using truffle library. 
-  - Frond end integration using React.
-- Blockchain tokens using ERC20 , ERC721 anf others token standards.
-- Front end integration using React.
-- Based in eatblock and full-stack-blockchain courses.
+- Solidity contracts and tokens examples.
+  - Tokens code using @OpenZepellin smarts contracts.
+  - Compile and deploy with truffle library. 
+  - Interact with Ethereum blockchain with web3.
+  - Testing with mocha framework.
+
+- Blockchain tokens using ERC20 , ERC721 Ethereum token standard.
+- Based in eatblock , full-stack-blockchain courses,
+  DappAcademy and Alberto Lasa youtube channels.
 
 
