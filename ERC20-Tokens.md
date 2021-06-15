@@ -2,6 +2,7 @@
 Put simply, the ERC20 standard defines a set of functions to be implemented by all ERC20 tokens so as to allow integration with other contracts, wallets, or marketplaces. 
 This set of functions is rather short and basic.
 
+#Required
 ## ERC20 functions interface
 
 - function totalSupply() public view returns (uint256);
@@ -16,6 +17,7 @@ This set of functions is rather short and basic.
 - event Approval(address indexed tokenOwner, address indexed spender, uint tokens);
 - event Transfer(address indexed from, address indexed to, uint tokens);
 
+#Optionals (but is recomended using in the code)
 ## ERC20 variables interface
 
 - string public constant name;
