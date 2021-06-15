@@ -32,3 +32,6 @@ An event is Solidity’s way of allowing clients e.g. your application frontend 
 
 ![image](https://user-images.githubusercontent.com/253442/120489094-bafed500-c38d-11eb-8494-a4e4466e8dc8.png)
 
+## References:
+
+https://ethereum.org/en/developers/docs/standards/tokens/erc-20/
