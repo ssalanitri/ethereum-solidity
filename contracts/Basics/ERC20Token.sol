@@ -1,9 +1,9 @@
 pragma solidity ^0.4.19;
 
-contract BasicToken {
+contract ERC20Token {
 
-    string public constant name = "BasicToken";
-    string public constant symbol = "BSK";
+    string public constant name = "ERC20Token";
+    string public constant symbol = "ETN";
     uint8 public constant decimals = 18;  
 
 
