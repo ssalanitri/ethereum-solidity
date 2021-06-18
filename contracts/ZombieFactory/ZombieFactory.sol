@@ -1,4 +1,4 @@
-pragma solidity >=0.5.0 <0.6.0;
+t pupragma solidity >=0.5.0 <0.6.0;
 
 contract ZombieFactory {
 
@@ -13,6 +13,7 @@ contract ZombieFactory {
     }
 
     Zombie[] public zombies;
+    
 
     function _createZombie(string memory _name, uint _dna) private {
         uint id = zombies.push(Zombie(_name, _dna));
