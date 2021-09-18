@@ -1,4 +1,4 @@
-# ethereum-solidity
+- ethereum-solidity
 
 - Solidity contracts and tokens examples.
   - Tokens code using @OpenZepellin smarts contracts.
@@ -7,7 +7,7 @@
   - Testing with mocha framework.
 
 - Blockchain tokens using ERC20 , ERC721 Ethereum token standard.
-- Based in solidity specirications, eatblock , full-stack-blockchain courses,
-  DappAcademy and Alberto Lasa youtube channels.
-
+- Based in solidity specifications, eatblock , full-stack-blockchain courses,
+  -DappAcademy , Alberto Lasa youtube channels.
+  
 
