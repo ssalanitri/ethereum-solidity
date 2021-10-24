@@ -1,0 +1,36 @@
+{
+  "name": "ethereum-solidity",
+  "version": "1.0.0",
+  "description": "Solidity contract samples codes ",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "node index.js",
+    "test": "node test",
+    "compile": "npx hardhat compile",
+    "deploy": "node ./scripts/deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ssalanitri/ethereum-solidity.git"
+  },
+  "author": "Sergio Salanitri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ssalanitri/ethereum-solidity/issues"
+  },
+  "homepage": "https://github.com/ssalanitri/ethereum-solidity#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.4.7",
+    "hardhat": "^2.6.5"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0"
+  }
+}
