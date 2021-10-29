@@ -8,6 +8,6 @@
 
 - Blockchain tokens using ERC20 , ERC721 Ethereum token standard.
 - Based in solidity specifications, eatblock , full-stack-blockchain courses,
-  -DappAcademy , Alberto Lasa youtube channels.
+  -DappAcademy , Alberto Lasa youtube channels, Hashlips youtube channel, ChainShot solidity interactive course.
   
 
